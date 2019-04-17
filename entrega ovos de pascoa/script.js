@@ -1,4 +1,6 @@
-window.addEventListener('DOMContentLoaded', function(event) {
+
+
+
     
     let paises = document.getElementById("opcoesPaises");
     let respostaPais = document.getElementById("RespostaPais")

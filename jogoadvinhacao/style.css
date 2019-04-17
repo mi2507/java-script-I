@@ -1,0 +1,16 @@
+body{
+    background-image: url(./imagem/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 60px;
+
+}
+
+.musica{
+    text-align: center;
+}
